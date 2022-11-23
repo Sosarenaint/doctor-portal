@@ -1,7 +1,7 @@
 # Doctors Portal 
 ![](https://i.ibb.co/0GhNLPk/image.png)
 
-# [Samson Sanyaolu](https://react.sosarena.com)
+# [Samson Sanyaolu](https://sosamson.com)
 
 # [LIVE](https://doctori.netlify.app/)
 
